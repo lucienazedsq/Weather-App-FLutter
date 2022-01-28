@@ -7,7 +7,7 @@ Projet pour le cours flutter
 -Nonkpin Linda
 -Tanoh Bouadou olivier
 -Hien Holo
-- Coulibaly Katinaga
+-Coulibaly Katinaga
 
 # NB :
 
@@ -17,3 +17,6 @@ Projet pour le cours flutter
 
 # l'apk se trouve dans ce repertoire :
 build\app\outputs\flutter-apk\app-armeabi-v7a-release.apk 
+
+# les captures de l'application se trouvent dans le dossier Captures .
+
